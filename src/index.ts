@@ -1,3 +1,3 @@
-import { BarChart } from './components/BarChart';
+import { GraphData } from './classes/GraphData';
 
-export { BarChart };
+export { GraphData };

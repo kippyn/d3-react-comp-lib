@@ -5,11 +5,11 @@
   "module": "dist/index.esm.js",
   "author": "kippyn",
   "license": "MIT",
-  "dependencies": {
-    "d3": "^5.15.1",
-    "d3-selection-multi": "^1.0.1"
-  },
   "devDependencies": {
+    "d3": "^5.15.1",
+    "d3-selection-multi": "^1.0.1",
+    "@types/d3": "^5.7.2",
+    "@types/d3-selection-multi": "^1.0.7",
     "@types/react": "^16.9.32",
     "@types/react-dom": "^16.9.6",
     "rollup": "^2.3.4",
