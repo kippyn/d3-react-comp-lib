@@ -1,0 +1,24 @@
+{
+  "name": "d3-react-comp-lib",
+  "version": "1.0.0",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "author": "kippyn",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.15.1",
+    "d3-selection-multi": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.32",
+    "@types/react-dom": "^16.9.6",
+    "rollup": "^2.3.4",
+    "rollup-plugin-delete": "^1.2.0",
+    "rollup-plugin-typescript2": "^0.27.0",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
